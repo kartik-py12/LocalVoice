@@ -1,0 +1,11 @@
+build/
+.DS_Store
+*.xcuserstate
+.env*
+*.env
+*.env.*
+LocalVoice.env
+*.m4a
+*.p12
+*.pem
+*.key
